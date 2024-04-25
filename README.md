@@ -1,0 +1,1 @@
+This python code is a project to tune the FM radio band and locate stations which broadcast contest. This program uses a xxamp mysql database , a arduino coded hardware project , a FM tuner and needed amplification.
